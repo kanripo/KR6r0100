@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:56.599688
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:18
 #+TITLE: 傳法正宗記
 #+PROPERTY: CBETA_ID T51n2078
 #+PROPERTY: ID KR6r0100
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2078
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0100_T_008-0757b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 傳法正宗記卷第八¶
+傳法正宗記卷第八¶
 ¶
 宋藤州東山沙門釋契嵩編修¶
 
-2正宗分家略傳
-:PROPERTIES:
-:head: 正宗分家略傳下
-:END:
-¶
+* 正宗分家略傳下¶
 
 大鑒之八世。曰韶州雲門山文偃禪師。蘇州¶
 嘉興人也。姓張氏。天性穎悟。幼不類常童。出¶
@@ -49,7 +44,7 @@
 觀音和尚者。一曰韶州林泉和尚者。一曰隨¶
 州雙泉師寬者。一曰韶州雲門煦和尚者。一¶
 曰益州香林澄遠者。一曰南嶽般若啟柔者。¶
-一曰筠州黃蘗法濟者。一曰襄州洞山守初¶
+一曰筠州黃蘖法濟者。一曰襄州洞山守初¶
 者。一曰信州康國耀和尚者。一曰潭州谷山¶
 豐禪師者。一曰穎羅漢匡果者。一曰鼎州滄¶
 谿璘和尚者。一曰筠州洞山清稟者。一曰蘄¶
